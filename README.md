@@ -1,0 +1,2 @@
+# Predicting-last-two-words-from-review-text
+Given a set of reviews as a training set, develop a Deep Learning model that predicts the last two words in each sentence of each review. The metrics measuring performance of your system are: (a) the confusion matrix on the test data for the exact prediction problem (both words are predicted correctly or not) and (b) word prediction accuracy for the word prediction problem (how many words among the two last words were predicted correctly or incorrectly).
